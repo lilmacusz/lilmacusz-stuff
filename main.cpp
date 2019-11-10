@@ -10,7 +10,11 @@ cin >> imie;
 cout << "Twoje imie to: " << imie << endl;
 }
 
+
 int main() {
-    program1();
+    cout << "Nowe zmiany!" << endl;
+    cout << "Nowe zmiany!" << endl;
+    cout << "Nowe zmiany!" << endl;
+    cout << "Nowe zmiany!" << endl;
     return 0;
 }
