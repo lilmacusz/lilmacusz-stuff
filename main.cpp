@@ -16,5 +16,9 @@ int main() {
     cout << "Nowe zmiany!" << endl;
     cout << "Nowe zmiany!" << endl;
     cout << "Nowe zmiany!" << endl;
+
+    //ok moge juz wyslac//
+
+
     return 0;
 }
