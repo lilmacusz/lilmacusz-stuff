@@ -11,6 +11,9 @@ cout << "Twoje imie to: " << imie << endl;
 }
 
 
+int global_variable = 0;
+
+
 int main() {
     cout << "Nowe zmiany!" << endl;
     cout << "Nowe zmiany!" << endl;
